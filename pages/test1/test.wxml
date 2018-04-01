@@ -1,0 +1,10 @@
+<!--pages/test1/test.wxml-->
+
+<view class="container">
+  <view>
+    <button bindtap='bindconnect'>链接后台</button>
+  </view>
+  <view class="result">
+    <text>{{result}}</text>
+  </view>
+</view>

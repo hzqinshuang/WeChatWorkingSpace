@@ -1,0 +1,4 @@
+/* pages/test1/test.wxss */
+.result{
+  margin-top: 200rpx
+}
